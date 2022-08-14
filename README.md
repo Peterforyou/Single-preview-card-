@@ -21,7 +21,7 @@ This is a task from Frontend Mentor to build a Single Price-Grid-Component to ai
 
 ### Links
 
-- Live Site URL:(https://peterforyou.github.io/web3bridge_task_2/)
+- Live Site URL:(https://peterforyou.github.io/Single-preview-card-/)
 
 ### Built with
 
